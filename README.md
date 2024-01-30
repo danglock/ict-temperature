@@ -2,7 +2,7 @@
 
 Clone the repository
 ```
-git clone XXX
+git clone https://github.com/danglock/ict-temperature
 ```
 
 Install requirements
